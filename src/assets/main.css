@@ -1,0 +1,12 @@
+
+/* Ceci permet de rendre le défilement fluide (animé) quand on clique sur un lien */
+/* C'est à dire la page glisse doucement jusqu’à la section */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin-top: 0; /* espace pour le header fixe */
+  background: brown;
+}
+

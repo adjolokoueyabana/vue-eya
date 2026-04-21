@@ -17,13 +17,6 @@ import Footer from './components/Footer.vue'
 </template>
 
 <style scoped>
-    
-    div {
-      width: 100%;   /* prend toute la largeur */
-      height: 20%;    /* hauteur fixe */
-      background-color: #28164b;  /* fond rouge */
-    }
-
 
 
 </style>

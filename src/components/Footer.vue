@@ -38,16 +38,20 @@
     flex-direction: row;
     justify-content: center;
     background-color: #3196e9;
-    border-radius: 40%;
+    border-radius: 6%;
     
 }
 #reseau1:hover, #reseau2:hover, #reseau3:hover{
-    opacity: 0.70;   
+    opacity: 0.70;
+    border: 3px solid rgb(253, 253, 253);
+    border-radius: 50%;
+    box-shadow: 0 0 15px white;  
 }
 #reseau1{
     width: 27px;
     height: 27px;
 }
+
 #reseau2{
     width: 27px;
     height: 27px;
@@ -67,6 +71,7 @@
 #imag1, #imag2, #imag3{
     width: 100%;
     height: 100%;
+    border-radius: 50%;
 }
     
 
